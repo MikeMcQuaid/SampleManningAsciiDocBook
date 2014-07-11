@@ -1,0 +1,14 @@
+# Sample Book Title
+Sample Book Author <author@domain.com>
+:doctype: book
+
+// You can set any Asciidoctor attributes here.
+// These are a few of my personal favorites.
+:toc: left
+:toclevels: 2
+:numbered:
+:idprefix:
+:idseparator: -
+:source-highlighter: pygments
+:sectlink:
+:sectanchors:

@@ -1,0 +1,37 @@
+:numbered!:
+
+[preface]
+## Front Matter
+ifdef::env-github[:outfilesuffix: .adoc]
+
+### Foreword
+This is where the foreword goes.
+
+### Preface
+This is where the preface goes.
+
+### Acknowledgements
+This is where the acknowledgements go.
+
+### About this Book
+This is where the book description goes.
+
+#### Roadmap
+This is where the book roadmap goes.
+
+#### Code
+This is where the code outline goes.
+
+#### Author Online
+This section is provided by Manning.
+
+#### About the author
+This is where the author information goes.
+
+#### About the title
+This section is provided by Manning.
+
+#### About the cover
+This section is provided by Manning.
+
+:numbered:

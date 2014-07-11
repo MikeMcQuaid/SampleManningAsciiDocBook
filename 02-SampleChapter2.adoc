@@ -1,0 +1,4 @@
+## Sample Chapter 2
+ifdef::env-github[:outfilesuffix: .adoc]
+
+### Sample section 2

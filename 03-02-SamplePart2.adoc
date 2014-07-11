@@ -1,0 +1,9 @@
+# Sample Part 2
+ifdef::env-github[:outfilesuffix: .adoc]
+
+Sample Part 2 (Sample Chapters 3-4) will cover some blank sample data.
+
+This part will cover the following topics:
+
+* Sample Chapter 3
+* Sample Chapter 4
