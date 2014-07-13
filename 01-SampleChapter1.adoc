@@ -12,6 +12,8 @@ Italics: _italics_
 
 Bold: **bold**
 
+Sample footnote.footnote:[Sample footnote text]
+
 // Sample comment
 
 1.  Sample numbered list
@@ -23,6 +25,12 @@ Sample text.
 * Sample bullet list
 
 #### Sample subsection
+[quote]
+Sample unattributed block quote.
+
+"Sample attributed, sourced block quote."
+-- Sample quote author, sample quote source
+
 .Sample note title
 NOTE: Sample note contents.
 
